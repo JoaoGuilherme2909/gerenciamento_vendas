@@ -1,16 +1,14 @@
 # gerenciamento_vendas
 
-A new Flutter project.
+Este é um Aplicativo simples feito em flutter com o objetivo de armazenar as algumas informações dos clientes que compraram um produto.
 
-## Getting Started
+## como funciona 
 
-This project is a starting point for a Flutter application.
+Este aplicativo possui uma tela bem simples e por meio de floating action button, uma janela é chamada para ser passado algumas informações do cliente, no caso nome, CPF e onde o cliente mora.
 
-A few resources to get you started if this is your first Flutter project:
+## futuras adicções
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Campo para descrição do cliente
+- Formatação de CPF no campo CPF 
+- Campo para o telefone
+- Campos para o endereço de maneira específica
