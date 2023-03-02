@@ -12,3 +12,7 @@ Este aplicativo possui uma tela bem simples e por meio de floating action button
 - Formatação de CPF no campo CPF 
 - Campo para o telefone
 - Campos para o endereço de maneira específica
+
+## Prints
+![Tela inicial](./prints/WhatsApp%20Image%202023-03-02%20at%2016.43.16.jpeg)
+![diálogo de adição de clientes](./prints/WhatsApp%20Image%202023-03-02%20at%2016.43.17.jpeg)
